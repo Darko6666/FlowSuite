@@ -13,6 +13,15 @@
 </div>
 
 > 
+<p align="center">
+  <img src="accueil-flow.png" alt="Dashboard FlowSuite" width="820" />
+</p>
+<p align="center">
+  <img src="dashboard-flow.png" alt="Accueil FlowSuite" width="820" />
+</p>
+<p align="center">
+  <img src="modules-flow.png" alt="Modules FlowSuite" width="820" />
+</p>
 
 
 ---
@@ -87,7 +96,7 @@ npm run test   # Vitest (ajoutez vos suites)
 ```
 Playwright est prêt dans `tests/e2e` pour des scénarios UI si besoin.
 
----
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🇬🇧 Included Modules
 | Module | Description | Highlights |
